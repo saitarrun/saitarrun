@@ -49,15 +49,6 @@ I focus on writing **maintainable, modular code** and building systems that are 
 
 For more projects, see the **Repositories** section.
 
----
-
-## GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saitarrun&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saitarrun&layout=compact&theme=default)
-
----
 
 ## Engineering Principles
 
@@ -81,7 +72,5 @@ For more projects, see the **Repositories** section.
 ## Contact
 
 - GitHub: https://github.com/saitarrun  
-- LinkedIn: *(add your LinkedIn URL)*  
-- Email: *(optional)*
 
 ---
