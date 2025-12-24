@@ -1,76 +1,87 @@
-<!--
- ██████╗ ██████╗ ██╗████████╗ █████╗ ██████╗ ██╗   ██╗███╗   ██╗
-██╔════╝ ██╔═══██╗██║╚══██╔══╝██╔══██╗██╔══██╗██║   ██║████╗  ██║
-██║  ███╗██║   ██║██║   ██║   ███████║██████╔╝██║   ██║██╔██╗ ██║
-██║   ██║██║   ██║██║   ██║   ██╔══██║██╔═══╝ ██║   ██║██║╚██╗██║
-╚██████╔╝╚██████╔╝██║   ██║   ██║  ██║██║     ╚██████╔╝██║ ╚████║
- ╚═════╝  ╚═════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝      ╚═════╝ ╚═╝  ╚═══╝
- 
- “Code flickers. Data hums. Reality shifts.”
--->
+# Sai Tarrun Pitta
 
-# 👤 Sai Tarrun Pitta · *saitarrun*
-
-**Software Engineer | Cloud · Cybersecurity · Machine Learning**  
+**Software Engineer | Cloud Computing | Cybersecurity | Machine Learning**  
 United States
 
 ---
 
-## 🔧 Systems Overview  
-- 🔹 **Domain:** Cloud-native platforms, container orchestration, serverless frameworks  
-- 🔹 **Specialties:** Cybersecurity posture, ML/AI pipelines, scalable microservices  
-- 🔹 **Languages / Tools:** Python · Go · TypeScript · Terraform · Docker · Kubernetes · AWS · GCP  
-- 🔹 **Mind-set:** Modular code, observable systems, fitness for purpose  
+## About Me
+
+I am a software engineer with experience designing and building **secure, scalable, and data-driven systems**.  
+My work spans cloud-native platforms, machine learning pipelines, cybersecurity-aware architectures, and full-stack development.
+
+I focus on writing **maintainable, modular code** and building systems that are reliable, observable, and secure by design.
 
 ---
 
-## 🚀 Mission Statement  
-> In the matrix of digital infrastructure I architect resilience.  
-> My code is a barrier and a gateway—protecting data while propelling innovation.
+## Technical Expertise
+
+**Domains**
+- Cloud-native and distributed systems
+- Cybersecurity and secure system design
+- Machine learning and data pipelines
+- Microservices and serverless architectures
+
+**Programming Languages**
+- Python
+- Go
+- TypeScript / JavaScript
+- Solidity
+- Bash
+
+**Frameworks & Tools**
+- Docker, Kubernetes
+- Terraform
+- AWS, GCP
+- TensorFlow, Apache Spark
+- PostgreSQL, Redis, Kafka
+- Truffle, Web3.js
 
 ---
 
-## 🧬 Featured Projects  
+## Selected Projects
+
 | Project | Description |
-|---------|-------------|
-| **Brain-Tumor-Prediction-Using-Machine-Learning-and-Big-Data** | End-to-end ML pipeline on MRI scans using TensorFlow + Apache Spark + GCP.  [oai_citation:0‡GitHub](https://github.com/saitarrun) |
-| **Serverless-Deployment-Platform** | Self-hosted deployment platform inspired by Vercel: AWS ECS/ECR, PostgreSQL, Redis, Kafka.  [oai_citation:1‡GitHub](https://github.com/saitarrun) |
-| **Blockchain-app** | Full-stack decentralized application with Solidity, Truffle & Web3.js.  [oai_citation:2‡GitHub](https://github.com/saitarrun) |
+|--------|-------------|
+| **Brain Tumor Prediction Using Machine Learning and Big Data** | End-to-end ML pipeline for MRI image analysis using TensorFlow, Apache Spark, and Google Cloud Platform. |
+| **Serverless Deployment Platform** | A self-hosted deployment platform inspired by Vercel, built using AWS ECS/ECR, PostgreSQL, Redis, and Kafka. |
+| **Blockchain Application** | Full-stack decentralized application using Solidity smart contracts, Truffle, and Web3.js. |
 
-*See more repositories in the “Repositories” tab.*
-
----
-
-## 📡 Real-Time Metrics  
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=saitarrun&show_icons=true&theme=radical)](https://github.com/saitarrun)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saitarrun&layout=compact&theme=radical)](https://github.com/saitarrun)
+For more projects, see the **Repositories** section.
 
 ---
 
-## ✉️ Connect & Collaborate  
-- GitHub: [saitarrun](https://github.com/saitarrun)  
-- LinkedIn: *(link your LinkedIn URL)*  
-- Twitter / X: *(add your handle if any)*  
-- Email: *(optional: your professional email)*  
+## GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saitarrun&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saitarrun&layout=compact&theme=default)
 
 ---
 
-## 📜 Code of Ethics & Approach  
-1. **Security first.** Every piece of architecture must assume breach.  
-2. **Automate everything.** If you do it more than once, script it.  
-3. **Observability built-in.** Logs, metrics, traces: no black boxes.  
-4. **Data respect.** Machine learning without ethics is chaos.  
-5. **Community first.** Open-source contributions are mandatory, not optional.
+## Engineering Principles
+
+- Security-first architecture
+- Automation-driven workflows
+- Built-in observability (logs, metrics, traces)
+- Ethical and responsible use of data and AI
+- Commitment to open-source and collaboration
 
 ---
 
-## 🔮 Looking Ahead  
-- Expand into edge computing & IoT security  
-- Build open-source ML frameworks for anomaly detection  
-- Mentor junior engineers and foster inclusivity in tech  
+## Interests & Current Focus
+
+- Cloud security and infrastructure resilience
+- Machine learning for anomaly and threat detection
+- Blockchain systems and smart contract development
+- Scalable automation and developer tooling
 
 ---
 
-Thanks for visiting.  
-Let’s build the future.  
-🌐🔌💾  
+## Contact
+
+- GitHub: https://github.com/saitarrun  
+- LinkedIn: *(add your LinkedIn URL)*  
+- Email: *(optional)*
+
+---
