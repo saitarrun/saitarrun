@@ -2,7 +2,7 @@
 
 **Software Engineer | Cloud Architect | Machine Learning Engineer**
 
-🌍 United States | 🔗 [GitHub](https://github.com/saitarrun) | 📧 [saitarrunpitta@gmail.com](mailto:saitarrunpitta@gmail.com)
+🌍 United States | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/saitarrun) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/saitarrunpitta) | 📧 [saitarrunpitta@gmail.com](mailto:saitarrunpitta@gmail.com)
 
 ---
 
@@ -92,6 +92,7 @@ A sophisticated knowledge retrieval system featuring:
 
 👉 **[View all repositories →](https://github.com/saitarrun?tab=repositories)**
 
+---
 
 ## 💡 Engineering Philosophy
 
@@ -141,11 +142,11 @@ I'm always interested in discussing:
 - Cloud infrastructure and DevOps innovations
 - Open-source collaboration opportunities
 
-**Reach out:**
-- 💼 [LinkedIn](https://linkedin.com/in/saitarrunpitta) 
-- 📧 **Email**: [saitarrunpitta@gmail.com](mailto:saitarrunpitta@gmail.com)
-- 🐙 **GitHub**: [@saitarrun](https://github.com/saitarrun)
-- 🔗 **Portfolio**: [saitarrun.dev](https://software-engineer-portfolio-wuzw.vercel.app/) 
+**Reach out via:**
+- [![LinkedIn](https://img.shields.io/badge/saitarrunpitta-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/saitarrunpitta)
+- [![GitHub](https://img.shields.io/badge/@saitarrun-181717?style=flat&logo=github&logoColor=white)](https://github.com/saitarrun)
+- [![Email](https://img.shields.io/badge/saitarrunpitta-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:saitarrunpitta@gmail.com)
+- 🔗 **Portfolio**: [saitarrun.dev](https://software-engineer-portfolio-wuzw.vercel.app/)
 
 ---
 
