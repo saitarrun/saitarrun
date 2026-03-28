@@ -66,7 +66,7 @@ A sophisticated knowledge retrieval system featuring:
 - **Real-time Analytics**: Dashboard with vector density monitoring and system health tracking
 - **Tech Stack**: Next.js, FastAPI, Neo4j, Redis, FAISS, LangChain
 
-🔗 [Repository](https://github.com/saitarrun/LLM-Powered-Knowledge-Retrieval-Platform) | [Live Demo](https://llm-powered-knowledge-retrieval-platform.vercel.app)
+🔗 [Repository](https://github.com/saitarrun/LLM-Powered-Knowledge-Retrieval-Platform)
 
 ### **Brain Tumor Prediction Using ML & Big Data**
 *End-to-end machine learning pipeline for medical imaging analysis*
