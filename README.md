@@ -142,10 +142,10 @@ I'm always interested in discussing:
 - Open-source collaboration opportunities
 
 **Reach out:**
-- 💼 [LinkedIn](https://linkedin.com/in/saitarrun) (coming soon)
+- 💼 [LinkedIn](https://linkedin.com/in/saitarrunpitta) 
 - 📧 **Email**: [saitarrunpitta@gmail.com](mailto:saitarrunpitta@gmail.com)
 - 🐙 **GitHub**: [@saitarrun](https://github.com/saitarrun)
-- 🔗 **Portfolio**: [saitarrun.dev](https://saitarrun.dev) (coming soon)
+- 🔗 **Portfolio**: [saitarrun.dev](https://software-engineer-portfolio-wuzw.vercel.app/) 
 
 ---
 
