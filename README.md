@@ -1,4 +1,4 @@
-<img width="1472" height="3102" alt="image" src="https://github.com/user-attachments/assets/8173702c-f495-4eaf-be53-10db7cf19091" /># Sai Tarrun Pitta
+# Sai Tarrun Pitta
 
 **Building Secure, Scalable Intelligence at the Edge of Cloud & Cybersecurity**
 
@@ -158,4 +158,4 @@ I'm always interested in discussing:
 
 *Last updated: March 2026*
 
-</div>
+</div
