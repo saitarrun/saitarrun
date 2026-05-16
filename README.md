@@ -68,7 +68,9 @@
 ## 🚀 Notable Projects
 
 <details open>
-<summary><b>1️⃣ LLM-Powered-Knowledge-Retrieval-Platform</b> (Click to expand)</summary>
+<summary><b>1️⃣ <a href="https://github.com/saitarrun/LLM-Powered-Knowledge-Retrieval-Platform">LLM-Powered-Knowledge-Retrieval-Platform</a></b> (Click to expand)</summary>
+
+<a href="https://github.com/saitarrun/LLM-Powered-Knowledge-Retrieval-Platform"><img src="https://img.shields.io/badge/GitHub-View%20Project-blue?style=flat&logo=github" alt="View on GitHub" /></a>
 
 Enterprise-grade RAG platform with multi-agent swarm architecture, Neo4j knowledge graphs, and intelligent document curation.
 
@@ -81,7 +83,9 @@ Enterprise-grade RAG platform with multi-agent swarm architecture, Neo4j knowled
 </details>
 
 <details open>
-<summary><b>2️⃣ Trading-Agent</b> (Click to expand)</summary>
+<summary><b>2️⃣ <a href="https://github.com/saitarrun/Trading-agent">Trading-Agent</a></b> (Click to expand)</summary>
+
+<a href="https://github.com/saitarrun/Trading-agent"><img src="https://img.shields.io/badge/GitHub-View%20Project-blue?style=flat&logo=github" alt="View on GitHub" /></a>
 
 Autonomous AI trading agent on Alpaca paper trading with regime-aware allocation (HMM), circuit breakers, and capital preservation.
 
@@ -94,7 +98,9 @@ Autonomous AI trading agent on Alpaca paper trading with regime-aware allocation
 </details>
 
 <details open>
-<summary><b>3️⃣ Trojan-Detection-in-Deep-Neural-Networks</b> (Click to expand)</summary>
+<summary><b>3️⃣ <a href="https://github.com/saitarrun/Trojan-Detection-in-Deep-Neural-Networks">Trojan-Detection-in-Deep-Neural-Networks</a></b> (Click to expand)</summary>
+
+<a href="https://github.com/saitarrun/Trojan-Detection-in-Deep-Neural-Networks"><img src="https://img.shields.io/badge/GitHub-View%20Project-blue?style=flat&logo=github" alt="View on GitHub" /></a>
 
 Enterprise-grade, distributed MLOps platform to simulate, detect, and mitigate Neural Trojans (backdoors) in DNNs.
 
@@ -107,7 +113,9 @@ Enterprise-grade, distributed MLOps platform to simulate, detect, and mitigate N
 </details>
 
 <details open>
-<summary><b>4️⃣ Monolith-to-Microservices</b> (Click to expand)</summary>
+<summary><b>4️⃣ <a href="https://github.com/saitarrun/Monolith-to-microservices">Monolith-to-Microservices</a></b> (Click to expand)</summary>
+
+<a href="https://github.com/saitarrun/Monolith-to-microservices"><img src="https://img.shields.io/badge/GitHub-View%20Project-blue?style=flat&logo=github" alt="View on GitHub" /></a>
 
 Practical guide for incrementally migrating monolithic applications to microservices on AWS EKS using the Strangler Fig pattern.
 
@@ -120,7 +128,9 @@ Practical guide for incrementally migrating monolithic applications to microserv
 </details>
 
 <details open>
-<summary><b>5️⃣ OpenClaw 🦞</b> (Click to expand)</summary>
+<summary><b>5️⃣ <a href="https://github.com/saitarrun/openclaw">OpenClaw 🦞</a></b> (Click to expand)</summary>
+
+<a href="https://github.com/saitarrun/openclaw"><img src="https://img.shields.io/badge/GitHub-View%20Project-blue?style=flat&logo=github" alt="View on GitHub" /></a>
 
 Personal AI assistant for any OS and platform. Cross-platform, extensible, intelligent automation.
 
@@ -133,7 +143,9 @@ Personal AI assistant for any OS and platform. Cross-platform, extensible, intel
 </details>
 
 <details open>
-<summary><b>6️⃣ Software Engineer Portfolio</b> (Click to expand)</summary>
+<summary><b>6️⃣ <a href="https://github.com/saitarrun/SoftwareEngineer_Portfolio">Software Engineer Portfolio</a></b> (Click to expand)</summary>
+
+<a href="https://github.com/saitarrun/SoftwareEngineer_Portfolio"><img src="https://img.shields.io/badge/GitHub-View%20Project-blue?style=flat&logo=github" alt="View on GitHub" /></a>
 
 Modern, glassmorphic portfolio website showcasing projects, experience, and publications.
 
