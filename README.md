@@ -1,58 +1,40 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:388bfd,100:3fb950&height=200&section=header&text=Sai%20Tarrun%20Pitta&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cloud%20Architect%20%7C%20ML%20Engineer%20%7C%20Security%20Architect&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:388bfd,100:3fb950&height=200&section=header&text=Sai%20Tarrun%20Pitta&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Secure%2C+Scalable+Intelligence;Cloud-Native+%7C+ML+Pipelines+%7C+Security;RAG+%7C+Multi-Agent+AI+%7C+LLMs;Production-Grade+Systems+by+Design)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Cloud+Architect+%7C+ML+Engineer+%7C+Security;Building+Secure%2C+Scalable+Systems)](https://git.io/typing-svg)
 
-<br/>
+</div>
 
-<!-- SOCIAL BADGES -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-saitarrunpitta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saitarrunpitta)
-[![GitHub](https://img.shields.io/badge/GitHub-saitarrun-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saitarrun)
-[![Portfolio](https://img.shields.io/badge/Portfolio-saitarrun.dev-3fb950?style=for-the-badge&logo=vercel&logoColor=white)](https://software-engineer-portfolio-wuzw.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-saitarrunpitta@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saitarrunpitta@gmail.com)
+<div align="center">
 
-<br/>
-
-<!-- PROFILE VIEWS + FOLLOWERS -->
-![Profile Views](https://komarev.com/ghpvc/?username=saitarrun&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/saitarrun?style=for-the-badge&color=3fb950&labelColor=161b22&label=FOLLOWERS)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saitarrunpitta)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/saitarrun)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:saitarrunpitta@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-3fb950?style=flat-square&logo=vercel&logoColor=white)](https://software-engineer-portfolio-wuzw.vercel.app/)
 
 </div>
 
 ---
 
-## 🧠 About Me
-
-```yaml
-name:       Sai Tarrun Pitta
-role:       Software Engineer & Cloud/ML/Security Architect
-location:   Building at the Edge of Cloud & AI
-focus:      Secure, Scalable, and Intelligent Systems
-
-expertise:
-  - Cloud-Native Architecture (AWS, GCP, Kubernetes, Terraform)
-  - Machine Learning Pipelines (RAG, LLMs, Multi-Agent AI)
-  - Cybersecurity (Zero-Trust, Threat Modeling, Hardening)
-  - Full-Stack Engineering (React, Next.js, FastAPI, Go)
-
-philosophy: "Production-grade code. Security by design. Observable by default."
-status:     Open to Collaboration & Architecture Discussions ✅
-
-availability: Architecting systems, mentoring, technical advisory
-```
-
----
-
-## 📜 Professional Credentials
+## 📊 Metrics at a Glance
 
 <div align="center">
 
-[![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
-[![Certified Kubernetes Administrator](https://img.shields.io/badge/CNCF-Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.cncf.io/certification/cka/)
-[![Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/security)
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  🔵 ML Pipelines: 100K+ predictions daily             │
+│  🟢 Cloud Infrastructure: 10M+ monthly requests         │
+│  🟡 Security: 80% vulnerability reduction              │
+│  🔴 Open Source: 1K+ stars                             │
+│  ⚪ AWS Certified Solutions Architect                  │
+│  🟣 Mentored 10+ junior engineers                      │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
 
 </div>
 
@@ -60,107 +42,28 @@ availability: Architecting systems, mentoring, technical advisory
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-
-### AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-
-### Web & Backend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### Databases & Messaging
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-
----
-
-## 💼 Professional Experience Highlights
-
-| **Domain** | **Expertise Level** | **Key Technologies** |
-|:---|:---|:---|
-| **Backend Architecture** | 🟢 Expert | FastAPI, Node.js, Django, Microservices, gRPC |
-| **Cloud & Infrastructure** | 🟢 Expert | AWS (EC2, ECS, Lambda, S3), GCP, Kubernetes, Terraform |
-| **Machine Learning** | 🟢 Expert | TensorFlow, PyTorch, LLMs, RAG, Fine-tuning, MLOps |
-| **Frontend Development** | 🟡 Advanced | React, Next.js, TypeScript, Tailwind, Streaming UIs |
-| **DevOps & Security** | 🟢 Expert | CI/CD, Zero-Trust, SIEM, Container Security, IaC |
-| **Database Design** | 🟡 Advanced | PostgreSQL, MongoDB, Neo4j, Redis, Vector DBs |
-
----
-
-## 🎙️ Speaking & Publications
-
-- 📝 **Technical Blog** — Articles on distributed systems, security hardening, and LLM architecture
-- 🎤 **Conferences** — Speaker on cloud-native and security topics at major tech events
-- 📚 **Open Source Documentation** — Contributing to industry-standard frameworks and tools
-- ✍️ **Engineering Articles** — Published on Medium, Dev.to, and internal tech platforms
-
----
-
-## 🌍 Open Source Impact
-
 <div align="center">
 
-| 📊 Metric | 🔢 Value |
-|:---|:---|
-| **Total Stars (across repos)** | 1K+ ⭐ |
-| **Contributions** | 500+ commits across projects |
-| **Projects Maintained** | 10+ active repositories |
-| **Dependencies Used By** | 100+ projects (estimated) |
+**Languages:** Python · TypeScript · Go · JavaScript · Solidity · Bash
+
+**Cloud:** AWS · GCP · Kubernetes · Docker · Terraform
+
+**AI/ML:** TensorFlow · PyTorch · LangChain · scikit-learn
+
+**Backend:** FastAPI · Node.js · Django · Prisma
+
+**Data:** PostgreSQL · MongoDB · Redis · Neo4j · Kafka
 
 </div>
 
-> 🔗 **Explore**: [All repositories](https://github.com/saitarrun?tab=repositories) · [Contributions](https://github.com/saitarrun?tab=contributions)
-
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 🏆 Project | 📝 Description | 🔧 Stack |
-|:---|:---|:---|
-| [**LLM Knowledge Platform**](https://github.com/saitarrun/LLM-Powered-Knowledge-Retrieval-Platform) ⭐ | Enterprise-grade RAG platform — multi-agent swarm, Neo4j knowledge graphs, vector search, real-time analytics | Next.js · FastAPI · Neo4j · FAISS · LangChain · Redis |
-| **Brain Tumor Detection** | End-to-end ML pipeline for MRI classification via transfer learning (CNN). 95%+ accuracy on big data infrastructure | TensorFlow · Apache Spark · GCP · Python |
-| **Serverless Deploy Platform** | Self-hosted Vercel-inspired platform with auto-scaling, ECR/ECS orchestration, and Kafka async pipelines | AWS ECS · Lambda · Kafka · Redis · React |
-| **Blockchain DeFi Suite** | Audited Solidity smart contracts on Ethereum + MetaMask-integrated Web3 frontend with automated testing | Solidity · Hardhat · Truffle · Web3.js · React |
-
-</div>
-
-> 👉 **[Explore all repositories →](https://github.com/saitarrun?tab=repositories)**
-
----
-
-## 📊 GitHub Stats
+## 📈 GitHub Activity
 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saitarrun&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&hide_border=false"/>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saitarrun&layout=compact&langs_count=8&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 
 </div>
@@ -173,98 +76,38 @@ availability: Architecting systems, mentoring, technical advisory
 
 ---
 
-## 🏆 Key Achievements
-
-<div align="center">
-
-| ⚡ | 🏅 Achievement |
-|:---:|:---|
-| 🔵 | Architected production ML pipelines serving **100K+ predictions daily** |
-| 🟢 | Designed cloud infrastructure supporting **10M+ monthly requests** |
-| 🟡 | Led security hardening initiatives reducing vulnerabilities by **80%** |
-| 🔴 | Contributed to open-source projects earning **1K+ stars** |
-| ⚪ | **AWS Certified Solutions Architect** · Ongoing ML Specialization |
-| 🟣 | Mentored junior engineers & led **technical architecture reviews** |
-
-</div>
-
----
-
-## 💡 Engineering Philosophy
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  🛡  Security-First     Build threat-resistant from day one  │
-│  ⚙  Automation         Reduce toil with IaC & smart tooling │
-│  📡  Observable         Logs, metrics, traces in production  │
-│  🧹  Clean Architecture Maintainable, testable, documented   │
-│  🤝  Collaborative      Code reviews, mentorship, sharing    │
-│  🌱  Ethical AI         Fairness, privacy, responsible data  │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 📈 Current Focus
-
-- 🤖 **Agentic AI** — Multi-agent systems, LLM orchestration, autonomous reasoning
-- 🔐 **Cloud Security** — Zero-trust, threat detection, infrastructure hardening
-- ☁️ **Distributed Systems** — High-performance architectures and optimization
-- 🛠️ **Developer Tools** — CI/CD, DX improvements, platform engineering
-
----
-
-## 🎯 Areas of Specialization
+## ⚡ Core Expertise
 
 <table align="center">
 <tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/🏗️-System%20Design-blue?style=flat-square" />
-<br/>
-<b>Architecture & Design</b>
-<br/>
-Distributed systems, microservices, event-driven architectures, API design, scalability patterns
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/🔒-Security%20First-red?style=flat-square" />
-<br/>
-<b>Security & Compliance</b>
-<br/>
-Zero-trust, threat modeling, cryptography, OWASP top 10, compliance (GDPR, HIPAA), hardening
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/🚀-Performance-green?style=flat-square" />
-<br/>
-<b>High Performance</b>
-<br/>
-Optimization, caching strategies, database tuning, async processing, load testing, profiling
-</td>
+<td width="33%"><b>Architecture</b><br/>Distributed systems<br/>Microservices<br/>Scalability patterns</td>
+<td width="33%"><b>Security</b><br/>Zero-trust<br/>Threat modeling<br/>Infrastructure hardening</td>
+<td width="33%"><b>Performance</b><br/>Optimization<br/>Database tuning<br/>Async processing</td>
 </tr>
 </table>
 
 ---
 
-## 💬 Let's Connect
+## 🚀 Highlighted Projects
 
-<div align="center">
+| Project | Description |
+|:---|:---|
+| [**LLM Knowledge Platform**](https://github.com/saitarrun/LLM-Powered-Knowledge-Retrieval-Platform) | Enterprise RAG · Neo4j · Multi-agent |
+| [**Monolith→Microservices**](https://github.com/saitarrun/Monolith-to-microservices) | Strangler Fig · Istio · EKS |
+| [**Rental Platform**](https://github.com/saitarrun/Rent_Application) | Blockchain · Solidity · React |
+| [**CTF Automation**](https://github.com/saitarrun/CTF-Automation-Toolkit) | Python · Streamlit · Security |
 
-**Interested in collaborating on:**
-- 🔧 Architecture consulting & technical advisory
-- 🤝 Mentoring & knowledge sharing
-- 📚 Speaking opportunities & technical writing
-- 🚀 Open source & community-driven projects
-
-**Get in touch:**
-
-[![Email](https://img.shields.io/badge/Email-saitarrunpitta%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saitarrunpitta@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-saitarrunpitta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saitarrunpitta)
-[![Calendar](https://img.shields.io/badge/Calendly-Schedule%20Chat-4285F4?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/saitarrunpitta)
-
-</div>
+**→ [Explore all repos](https://github.com/saitarrun?tab=repositories)**
 
 ---
 
-## 🐍 Contribution Graph
+## 💡 Philosophy
+
+```
+Security-First  ·  Production-Grade  ·  Observable  ·  Collaborative
+```
+
+---
 
 <div align="center">
 
@@ -274,36 +117,13 @@ Optimization, caching strategies, database tuning, async processing, load testin
 
 ---
 
----
-
-## 📚 Resources & Links
-
-| 🔗 | Resource |
-|:---|:---|
-| 📂 | [All Projects](https://github.com/saitarrun?tab=repositories) · [Contributions](https://github.com/saitarrun?tab=contributions) |
-| 💼 | [LinkedIn Profile](https://linkedin.com/in/saitarrunpitta) · [Portfolio](https://software-engineer-portfolio-wuzw.vercel.app/) |
-| 📧 | [Email](mailto:saitarrunpitta@gmail.com) · [Schedule Call](https://calendly.com/saitarrunpitta) |
-
----
-
 <div align="center">
 
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3fb950,50:388bfd,100:1f6feb&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3fb950,50:388bfd,100:1f6feb&height=100&section=footer" width="100%"/>
 
-<br/>
+[![LinkedIn](https://img.shields.io/badge/-Let's%20Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/saitarrunpitta)
+[![Email](https://img.shields.io/badge/-Email%20Me-EA4335?style=flat-square&logo=gmail)](mailto:saitarrunpitta@gmail.com)
 
-**If my work adds value to your journey, consider:**
-- ⭐ Starring repositories that resonate with you
-- 🔗 Sharing my work with your network
-- 💬 Reaching out for collaboration or mentorship
-
-<br/>
-
-*Built with engineering rigor · Last updated May 2026*
-
-<br/>
-
-> **"The best code is not the code that does everything, but the code that solves the right problem, securely."**
+*Built with purpose · Last updated May 2026*
 
 </div>
