@@ -19,6 +19,16 @@
 
 ---
 
+## 🧠 About Me
+
+Software Engineer & Cloud/ML/Security Architect building secure, scalable, and intelligent systems. Specialized in distributed architecture, machine learning pipelines, and infrastructure hardening.
+
+**Currently:** Architecting enterprise systems · Mentoring engineers · Exploring agentic AI
+
+**Philosophy:** Production-grade code · Security by design · Observable by default
+
+---
+
 ## 📊 Metrics at a Glance
 
 <div align="center">
