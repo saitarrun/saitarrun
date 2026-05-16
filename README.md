@@ -163,53 +163,53 @@ Modern, glassmorphic portfolio website showcasing projects, experience, and publ
 
 ```
 ┌─────────────────────────────────────────────┐
-│ CLOUD & DEVOPS                              │
+│ ☁️ CLOUD & DEVOPS                           │
 ├─────────────────────────────────────────────┤
-│ • AWS (EC2, S3, Lambda, RDS, EKS)          │
-│ • Kubernetes & Docker                       │
-│ • Istio & Service Mesh                      │
-│ • Zero-downtime Deployments                 │
-│ • CI/CD Pipelines                           │
+│ 🟠 AWS (EC2, S3, Lambda, RDS, EKS)         │
+│ 🐳 Kubernetes & Docker                      │
+│ 🕸️  Istio & Service Mesh                    │
+│ ⚡ Zero-downtime Deployments                │
+│ 🔄 CI/CD Pipelines                          │
 └─────────────────────────────────────────────┘
 
 ┌─────────────────────────────────────────────┐
-│ AI & MACHINE LEARNING                       │
+│ 🤖 AI & MACHINE LEARNING                    │
 ├─────────────────────────────────────────────┤
-│ • Large Language Models (LLMs)              │
-│ • RAG Systems & Embeddings                  │
-│ • Neural Networks & Deep Learning           │
-│ • MLOps & Model Deployment                  │
-│ • Threat Detection & Anomaly Detection      │
+│ 🧠 Large Language Models (LLMs)             │
+│ 📚 RAG Systems & Embeddings                 │
+│ 🧬 Neural Networks & Deep Learning          │
+│ 🎯 MLOps & Model Deployment                 │
+│ 🔍 Threat Detection & Anomaly Detection     │
 └─────────────────────────────────────────────┘
 
 ┌─────────────────────────────────────────────┐
-│ ARCHITECTURE & SYSTEMS DESIGN               │
+│ 🏗️  ARCHITECTURE & SYSTEMS DESIGN           │
 ├─────────────────────────────────────────────┤
-│ • Microservices Architecture                │
-│ • Distributed Systems                       │
-│ • Multi-agent Systems                       │
-│ • Strangler Fig Pattern                     │
-│ • System Design & Scaling                   │
+│ 🔲 Microservices Architecture               │
+│ 🌐 Distributed Systems                      │
+│ 👥 Multi-agent Systems                      │
+│ 🔄 Strangler Fig Pattern                    │
+│ 📈 System Design & Scaling                  │
 └─────────────────────────────────────────────┘
 
 ┌─────────────────────────────────────────────┐
-│ SECURITY & CYBERSECURITY                    │
+│ 🔒 SECURITY & CYBERSECURITY                 │
 ├─────────────────────────────────────────────┤
-│ • Threat Detection & Analysis               │
-│ • Trojan/Backdoor Detection                 │
-│ • Forensic Audits                           │
-│ • Defense Systems                           │
-│ • Secure Architecture                       │
+│ 🎯 Threat Detection & Analysis              │
+│ 🚨 Trojan/Backdoor Detection                │
+│ 🔎 Forensic Audits                          │
+│ 🛡️  Defense Systems                         │
+│ 🔐 Secure Architecture                      │
 └─────────────────────────────────────────────┘
 
 ┌─────────────────────────────────────────────┐
-│ FULL-STACK DEVELOPMENT                      │
+│ 💻 FULL-STACK DEVELOPMENT                   │
 ├─────────────────────────────────────────────┤
-│ • TypeScript, Python, JavaScript            │
-│ • React, FastAPI, Express                   │
-│ • Database Design (SQL, NoSQL, Graphs)      │
-│ • API Design & REST/GraphQL                 │
-│ • Web Design & UX                           │
+│ 📝 TypeScript, Python, JavaScript           │
+│ ⚛️  React, FastAPI, Express                 │
+│ 🗄️  Database Design (SQL, NoSQL, Graphs)    │
+│ 🔌 API Design & REST/GraphQL                │
+│ 🎨 Web Design & UX                          │
 └─────────────────────────────────────────────┘
 ```
 
