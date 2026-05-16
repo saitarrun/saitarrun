@@ -1,178 +1,95 @@
-<table>
-<tr>
-<td width="25%" align="center" valign="top">
+# Welcome to Sai Tarrun Pitta's Hub
 
-<img src="https://avatars.githubusercontent.com/u/116748905?v=4" width="200" style="border-radius: 50%;" alt="Sai Tarrun Pitta"/>
-
-## Sai Tarrun Pitta
-### @saitarrun
-
-[![Follow on GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saitarrun)
-
-<div align="left" style="font-size: 12px; margin: 20px 0;">
-
-**Tags**
-- Cloud Architect
-- ML Engineer
-- Security Expert
-- Highly Active
-
-**Organization**
-- Tech Innovator
-
-**Location**
-- 🌍 Building at Edge of Cloud
-
-**Joined**
-- 2020+
-
-</div>
-
-<div align="left" style="font-size: 13px; margin-top: 20px; border-top: 1px solid #30363d; padding-top: 15px;">
-
-👥 **1k+** followers · **0** following  
-👁️ **500+** views
-
-</div>
-
-</td>
-<td width="75%" valign="top" style="padding-left: 30px;">
-
-## Welcome to Sai Tarrun's Hub
-*Explore open source contributions and projects*
-
-<div align="right" style="font-size: 11px; color: #58a6ff;">
-Powered by CheckMyGit
-</div>
+Results-driven Software Engineer with expertise in software development, cloud computing, cybersecurity and machine learning.
 
 ---
 
-<div align="center" style="margin: 30px 0;">
+## 📊 GitHub Stats
 
-| 📁 | ⭐ | 👥 | ⏱️ |
-|:---:|:---:|:---:|:---:|
-| **15+** | **1K+** | **1K+** | **4+** |
-| TOTAL REPOS | TOTAL STARS | FOLLOWERS | YEARS ACTIVE |
-
-</div>
-
----
-
-## 📊 Contributions
-**Last 52 weeks of activity**
-
-![Contributions Calendar](https://github-readme-activity-graph.vercel.app/graph?username=saitarrun&bg_color=0d1117&color=58a6ff&line=3fb950&point=e3b341&area=true&hide_border=true)
-
-**Total Contributions: 500+**
+| Metric | Value |
+|--------|-------|
+| **Total Repos** | 17 |
+| **Followers** | 0 |
+| **Following** | 2 |
+| **Member Since** | Oct 26, 2022 (3+ years) |
+| **Location** | United States |
 
 ---
 
 ## 🛠️ Core Technologies
 
-<div align="center">
+**Languages & Frameworks:**
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+- ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat&logo=jupyter&logoColor=white)
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### Top Languages
-
-```
-Python         ███████░░ 35%
-TypeScript     ████░░░░░ 20%
-Go             ███░░░░░░ 15%
-JavaScript     ███░░░░░░ 15%
-Solidity       ██░░░░░░░ 10%
-Other          ░░░░░░░░░ 5%
-```
-
-</td>
-<td width="50%" align="center">
-
-![Language Distribution](https://github-readme-stats.vercel.app/api/top-langs/?username=saitarrun&layout=donut&langs_count=6&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-</td>
-</tr>
-</table>
+**Expertise Areas:**
+- Cloud Computing & Microservices (AWS, EKS, Docker, Kubernetes)
+- Machine Learning & AI (LLMs, RAG, Neural Networks, MLOps)
+- Cybersecurity & Threat Detection
+- Software Architecture & System Design
 
 ---
 
-## 📌 Notable Projects
+## 📈 Language Distribution
 
-| | | |
-|---|---|---|
-| **[LLM Knowledge Platform](https://github.com/saitarrun/LLM-Powered-Knowledge-Retrieval-Platform)** | Enterprise RAG System | ⭐ 180+ 🔀 45+ |
-| **[Monolith→Microservices](https://github.com/saitarrun/Monolith-to-microservices)** | Strangler Fig Pattern on EKS | ⭐ 120+ 🔀 32+ |
-| **[Rental Platform](https://github.com/saitarrun/Rent_Application)** | Blockchain-Based Property Management | ⭐ 95+ 🔀 28+ |
-| **[CTF Automation Toolkit](https://github.com/saitarrun/CTF-Automation-Toolkit)** | Security Challenge Automation | ⭐ 85+ 🔀 22+ |
-| **[Portfolio Website](https://github.com/saitarrun/SoftwareEngineer_Portfolio)** | Glassmorphic React Dashboard | ⭐ 75+ 🔀 18+ |
-| **[Trading Agent](https://github.com/saitarrun/Trading-agent)** | AI-Powered Trading System | ⭐ 65+ 🔀 15+ |
-
-**→ [Explore all repositories](https://github.com/saitarrun?tab=repositories)**
-
----
-
-## 📈 Key Metrics
-
-<div align="center">
-
-```
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║  🔵  ML Pipelines: 100K+ predictions daily               ║
-║  🟢  Cloud Scale: 10M+ monthly requests                  ║
-║  🟡  Security: 80% vulnerability reduction               ║
-║  🔴  Open Source: 1K+ GitHub stars                       ║
-║  ⚪  AWS Certified Solutions Architect                   ║
-║  🟣  Engineering: 10+ mentored engineers                 ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
-
-</div>
+| Language | Repos | Percentage |
+|----------|-------|-----------|
+| TypeScript | 5 | 29% |
+| Jupyter Notebook | 4 | 24% |
+| Python | 3 | 18% |
+| JavaScript | 2 | 12% |
+| C | 1 | 6% |
+| HTML | 1 | 6% |
+| Other | 1 | 5% |
 
 ---
 
-## 💼 About
+## 🚀 Notable Projects
 
-Software Engineer & Cloud/ML/Security Architect building production-grade systems. Specializing in distributed architecture, machine learning pipelines, and security hardening.
+### 1. **LLM-Powered-Knowledge-Retrieval-Platform**
+Enterprise-grade RAG platform with multi-agent swarm architecture, Neo4j knowledge graphs, and intelligent document curation. Features real-time analytics, Slack approval workflows, and local sovereignty.  
+📌 **Tech:** Python, LLMs, Neo4j, Microservices
 
-**Current Focus:** Agentic AI · Cloud Security · Distributed Systems · Developer Tools
+### 2. **Trading-Agent**
+Autonomous AI trading agent on Alpaca paper trading with regime-aware allocation (HMM), circuit breakers, and capital preservation.  
+📌 **Tech:** Python, Machine Learning, Financial Systems
 
-**Philosophy:** Production-grade code · Security by design · Observable by default
+### 3. **Trojan-Detection-in-Deep-Neural-Networks**
+Enterprise-grade, distributed MLOps platform to simulate, detect, and mitigate Neural Trojans (backdoors) in DNNs—covering both offensive generation and defensive forensic audits with an end-to-end microservices architecture.  
+📌 **Tech:** C, Python, MLOps, Security
+
+### 4. **Monolith-to-Microservices**
+Practical guide to incrementally migrating monolithic applications to microservices on AWS EKS using the Strangler Fig pattern with Istio traffic routing. Zero-downtime migration strategy with working examples.  
+📌 **Tech:** Python, Kubernetes, AWS, Istio
+
+### 5. **OpenClaw**
+Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  
+📌 **Tech:** TypeScript, AI, Cross-Platform
+
+### 6. **Software Engineer Portfolio**
+Modern, glassmorphic portfolio website showcasing software engineering experience, projects, and publications. Built with React, TypeScript, Tailwind CSS, and Vite.  
+📌 **Tech:** TypeScript, React, Tailwind CSS, Web Design
+
+---
+
+## 📚 Specializations
+
+- **Cloud & DevOps:** AWS, EKS, Docker, Kubernetes, Istio, Zero-downtime deployments
+- **AI & ML:** LLMs, RAG systems, Neural Networks, MLOps, Threat detection, Regime-aware algorithms
+- **Architecture:** Microservices, Strangler Fig pattern, Distributed systems, Multi-agent systems
+- **Security:** Cybersecurity, Trojan detection, Forensic audits, Defense systems
+- **Full-Stack:** TypeScript, Python, JavaScript, React, FastAPI, Web design
 
 ---
 
 ## 🔗 Connect
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saitarrunpitta)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saitarrun)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saitarrunpitta@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-3fb950?style=for-the-badge&logo=vercel&logoColor=white)](https://software-engineer-portfolio-wuzw.vercel.app/)
-
-</div>
+- **GitHub:** [@saitarrun](https://github.com/saitarrun)
+- **Location:** United States
 
 ---
 
-<div align="center" style="font-size: 12px; color: #8b949e; margin-top: 30px;">
-
-Built with CheckMyGit concept · Last updated May 2026
-
-</div>
-
-</td>
-</tr>
-</table>
+*Last updated: May 15, 2026*
