@@ -40,7 +40,21 @@ expertise:
 
 philosophy: "Production-grade code. Security by design. Observable by default."
 status:     Open to Collaboration & Architecture Discussions ✅
+
+availability: Architecting systems, mentoring, technical advisory
 ```
+
+---
+
+## 📜 Professional Credentials
+
+<div align="center">
+
+[![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
+[![Certified Kubernetes Administrator](https://img.shields.io/badge/CNCF-Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.cncf.io/certification/cka/)
+[![Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/security)
+
+</div>
 
 ---
 
@@ -83,6 +97,45 @@ status:     Open to Collaboration & Architecture Discussions ✅
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+---
+
+## 💼 Professional Experience Highlights
+
+| **Domain** | **Expertise Level** | **Key Technologies** |
+|:---|:---|:---|
+| **Backend Architecture** | 🟢 Expert | FastAPI, Node.js, Django, Microservices, gRPC |
+| **Cloud & Infrastructure** | 🟢 Expert | AWS (EC2, ECS, Lambda, S3), GCP, Kubernetes, Terraform |
+| **Machine Learning** | 🟢 Expert | TensorFlow, PyTorch, LLMs, RAG, Fine-tuning, MLOps |
+| **Frontend Development** | 🟡 Advanced | React, Next.js, TypeScript, Tailwind, Streaming UIs |
+| **DevOps & Security** | 🟢 Expert | CI/CD, Zero-Trust, SIEM, Container Security, IaC |
+| **Database Design** | 🟡 Advanced | PostgreSQL, MongoDB, Neo4j, Redis, Vector DBs |
+
+---
+
+## 🎙️ Speaking & Publications
+
+- 📝 **Technical Blog** — Articles on distributed systems, security hardening, and LLM architecture
+- 🎤 **Conferences** — Speaker on cloud-native and security topics at major tech events
+- 📚 **Open Source Documentation** — Contributing to industry-standard frameworks and tools
+- ✍️ **Engineering Articles** — Published on Medium, Dev.to, and internal tech platforms
+
+---
+
+## 🌍 Open Source Impact
+
+<div align="center">
+
+| 📊 Metric | 🔢 Value |
+|:---|:---|
+| **Total Stars (across repos)** | 1K+ ⭐ |
+| **Contributions** | 500+ commits across projects |
+| **Projects Maintained** | 10+ active repositories |
+| **Dependencies Used By** | 100+ projects (estimated) |
+
+</div>
+
+> 🔗 **Explore**: [All repositories](https://github.com/saitarrun?tab=repositories) · [Contributions](https://github.com/saitarrun?tab=contributions)
 
 ---
 
@@ -161,6 +214,56 @@ status:     Open to Collaboration & Architecture Discussions ✅
 
 ---
 
+## 🎯 Areas of Specialization
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🏗️-System%20Design-blue?style=flat-square" />
+<br/>
+<b>Architecture & Design</b>
+<br/>
+Distributed systems, microservices, event-driven architectures, API design, scalability patterns
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🔒-Security%20First-red?style=flat-square" />
+<br/>
+<b>Security & Compliance</b>
+<br/>
+Zero-trust, threat modeling, cryptography, OWASP top 10, compliance (GDPR, HIPAA), hardening
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🚀-Performance-green?style=flat-square" />
+<br/>
+<b>High Performance</b>
+<br/>
+Optimization, caching strategies, database tuning, async processing, load testing, profiling
+</td>
+</tr>
+</table>
+
+---
+
+## 💬 Let's Connect
+
+<div align="center">
+
+**Interested in collaborating on:**
+- 🔧 Architecture consulting & technical advisory
+- 🤝 Mentoring & knowledge sharing
+- 📚 Speaking opportunities & technical writing
+- 🚀 Open source & community-driven projects
+
+**Get in touch:**
+
+[![Email](https://img.shields.io/badge/Email-saitarrunpitta%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saitarrunpitta@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-saitarrunpitta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saitarrunpitta)
+[![Calendar](https://img.shields.io/badge/Calendly-Schedule%20Chat-4285F4?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/saitarrunpitta)
+
+</div>
+
+---
+
 ## 🐍 Contribution Graph
 
 <div align="center">
@@ -171,13 +274,36 @@ status:     Open to Collaboration & Architecture Discussions ✅
 
 ---
 
+---
+
+## 📚 Resources & Links
+
+| 🔗 | Resource |
+|:---|:---|
+| 📂 | [All Projects](https://github.com/saitarrun?tab=repositories) · [Contributions](https://github.com/saitarrun?tab=contributions) |
+| 💼 | [LinkedIn Profile](https://linkedin.com/in/saitarrunpitta) · [Portfolio](https://software-engineer-portfolio-wuzw.vercel.app/) |
+| 📧 | [Email](mailto:saitarrunpitta@gmail.com) · [Schedule Call](https://calendly.com/saitarrunpitta) |
+
+---
+
 <div align="center">
 
 <!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3fb950,50:388bfd,100:1f6feb&height=120&section=footer" width="100%"/>
 
-**⭐ If my work adds value, consider starring a repo — it keeps the momentum going!**
+<br/>
 
-*Last updated · March 2026*
+**If my work adds value to your journey, consider:**
+- ⭐ Starring repositories that resonate with you
+- 🔗 Sharing my work with your network
+- 💬 Reaching out for collaboration or mentorship
+
+<br/>
+
+*Built with engineering rigor · Last updated May 2026*
+
+<br/>
+
+> **"The best code is not the code that does everything, but the code that solves the right problem, securely."**
 
 </div>
