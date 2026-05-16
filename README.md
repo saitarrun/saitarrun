@@ -67,35 +67,83 @@
 
 ## 🚀 Notable Projects
 
-### 1️⃣ **LLM-Powered-Knowledge-Retrieval-Platform**
+<details open>
+<summary><b>1️⃣ LLM-Powered-Knowledge-Retrieval-Platform</b> (Click to expand)</summary>
+
 Enterprise-grade RAG platform with multi-agent swarm architecture, Neo4j knowledge graphs, and intelligent document curation.
-- 🔧 **Tech:** Python, LLMs, Neo4j, Microservices
-- 🎯 **Focus:** AI, Knowledge Management, Enterprise
 
-### 2️⃣ **Trading-Agent**
+| Aspect | Details |
+|--------|---------|
+| 🔧 **Tech** | Python, LLMs, Neo4j, Microservices |
+| 🎯 **Focus** | AI, Knowledge Management, Enterprise |
+| ⭐ **Highlights** | Multi-agent swarm, Real-time analytics, Slack workflows |
+
+</details>
+
+<details open>
+<summary><b>2️⃣ Trading-Agent</b> (Click to expand)</summary>
+
 Autonomous AI trading agent on Alpaca paper trading with regime-aware allocation (HMM), circuit breakers, and capital preservation.
-- 🔧 **Tech:** Python, Machine Learning, Financial Systems
-- 🎯 **Focus:** FinTech, AI, Algorithms
 
-### 3️⃣ **Trojan-Detection-in-Deep-Neural-Networks**
+| Aspect | Details |
+|--------|---------|
+| 🔧 **Tech** | Python, Machine Learning, Financial Systems |
+| 🎯 **Focus** | FinTech, AI, Algorithms |
+| ⭐ **Highlights** | Regime-aware HMM, Circuit breakers, Capital protection |
+
+</details>
+
+<details open>
+<summary><b>3️⃣ Trojan-Detection-in-Deep-Neural-Networks</b> (Click to expand)</summary>
+
 Enterprise-grade, distributed MLOps platform to simulate, detect, and mitigate Neural Trojans (backdoors) in DNNs.
-- 🔧 **Tech:** C, Python, MLOps, Security
-- 🎯 **Focus:** Cybersecurity, AI Safety, Forensics
 
-### 4️⃣ **Monolith-to-Microservices**
+| Aspect | Details |
+|--------|---------|
+| 🔧 **Tech** | C, Python, MLOps, Security |
+| 🎯 **Focus** | Cybersecurity, AI Safety, Forensics |
+| ⭐ **Highlights** | Trojan simulation, Detection, Forensic audits |
+
+</details>
+
+<details open>
+<summary><b>4️⃣ Monolith-to-Microservices</b> (Click to expand)</summary>
+
 Practical guide for incrementally migrating monolithic applications to microservices on AWS EKS using the Strangler Fig pattern.
-- 🔧 **Tech:** Python, Kubernetes, AWS, Istio
-- 🎯 **Focus:** Architecture, Cloud, DevOps
 
-### 5️⃣ **OpenClaw** 🦞
+| Aspect | Details |
+|--------|---------|
+| 🔧 **Tech** | Python, Kubernetes, AWS, Istio |
+| 🎯 **Focus** | Architecture, Cloud, DevOps |
+| ⭐ **Highlights** | Zero-downtime migration, Strangler Fig, Istio routing |
+
+</details>
+
+<details open>
+<summary><b>5️⃣ OpenClaw 🦞</b> (Click to expand)</summary>
+
 Personal AI assistant for any OS and platform. Cross-platform, extensible, intelligent automation.
-- 🔧 **Tech:** TypeScript, AI, CLI
-- 🎯 **Focus:** Developer Tools, AI, Automation
 
-### 6️⃣ **Software Engineer Portfolio**
+| Aspect | Details |
+|--------|---------|
+| 🔧 **Tech** | TypeScript, AI, CLI |
+| 🎯 **Focus** | Developer Tools, AI, Automation |
+| ⭐ **Highlights** | Cross-platform, Extensible, Intelligent |
+
+</details>
+
+<details open>
+<summary><b>6️⃣ Software Engineer Portfolio</b> (Click to expand)</summary>
+
 Modern, glassmorphic portfolio website showcasing projects, experience, and publications.
-- 🔧 **Tech:** TypeScript, React, Tailwind CSS, Vite
-- 🎯 **Focus:** Web Design, Frontend, Portfolio
+
+| Aspect | Details |
+|--------|---------|
+| 🔧 **Tech** | TypeScript, React, Tailwind CSS, Vite |
+| 🎯 **Focus** | Web Design, Frontend, Portfolio |
+| ⭐ **Highlights** | Glassmorphic design, Responsive, Modern UI |
+
+</details>
 
 ---
 
