@@ -150,6 +150,25 @@ A sophisticated knowledge retrieval system featuring:
 
 ---
 
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=saitarrun&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saitarrun&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="180"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saitarrun&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+
+</div>
+
+---
+
 ## 📫 Get In Touch
 
 I'm always interested in discussing:
@@ -170,6 +189,6 @@ I'm always interested in discussing:
 
 **⭐ If you find my work valuable, please consider starring my repositories!**
 
-*Last updated: May 2026*
+*Last updated: June 2026*
 
 </div>
