@@ -133,11 +133,11 @@ A sophisticated knowledge retrieval system featuring:
 
 ## 📈 Key Achievements
 
-✅ Architected production ML pipelines serving 100K+ predictions daily
-✅ Designed and deployed cloud infrastructure supporting 10M+ monthly requests
-✅ Led security assessments and hardening initiatives reducing vulnerabilities by 80%
-✅ Contributed to open-source projects with 1K+ stars
-✅ Mentored junior engineers and led technical architecture discussions
+- ✅ Architected production ML pipelines serving 100K+ predictions daily
+- ✅ Designed and deployed cloud infrastructure supporting 10M+ monthly requests
+- ✅ Led security assessments and hardening initiatives reducing vulnerabilities by 80%
+- ✅ Contributed to open-source projects with 1K+ stars
+- ✅ Mentored junior engineers and led technical architecture discussions
 
 ---
 
@@ -162,7 +162,6 @@ I'm always interested in discussing:
 - [![LinkedIn](https://img.shields.io/badge/saitarrunpitta-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/saitarrunpitta)
 - [![GitHub](https://img.shields.io/badge/@saitarrun-181717?style=flat&logo=github&logoColor=white)](https://github.com/saitarrun)
 - [![Email](https://img.shields.io/badge/saitarrunpitta-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:saitarrunpitta@gmail.com)
-- 🔗 **Portfolio**: [saitarrun.dev](https://software-engineer-portfolio-wuzw.vercel.app/)
 
 ---
 
