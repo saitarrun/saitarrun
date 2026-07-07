@@ -13,6 +13,4 @@
 <a href="mailto:saitarrunpitta@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9c" alt="email"/></a>&nbsp;
 <img src="https://komarev.com/ghpvc/?username=saitarrun&style=for-the-badge&color=0d1117&label=INTRUSIONS+DETECTED" alt="visitors"/>
 
-
-
 </div>
